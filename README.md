@@ -80,4 +80,4 @@ The [`vercel.json`](./vercel.json) handles SPA routing automatically.
 
 ## 👥 Team
 
-**Team Pixel-End** | 12-Hour Frontend Hackathon 2026
+**Team Pixel-End** | 12-Hour Frontend Hackathon 2026.
