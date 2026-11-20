@@ -3,7 +3,7 @@
 > **Campus Opportunity Tracker** — Browse, save, and track internships, hackathons, scholarships, and more.  
 > Built for the **12-Hour Frontend Hackathon** by **Team Pixel-End**.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-pink?logo=vercel)](https://campusflow.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-white?logo=vercel)](https://campusflow.vercel.app)
 [![Built with React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite)](https://vite.dev)
 [![Supabase](https://img.shields.io/badge/Supabase-cloud-3ECF8E?logo=supabase)](https://supabase.com)
