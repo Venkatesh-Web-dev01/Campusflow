@@ -25,23 +25,6 @@
 
 ---
 
-## 🚀 Quick Start
-
-```bash
-# 1. Clone
-git clone https://github.com/YOUR_USERNAME/campusflow.git
-cd campusflow
-
-# 2. Install
-npm install
-
-# 3. (Optional) Add Supabase credentials
-cp .env.example .env.local
-# Edit .env.local with your Supabase URL and anon key
-
-# 4. Run dev server
-npm run dev
-```
 
 App runs at **http://localhost:5173**
 
