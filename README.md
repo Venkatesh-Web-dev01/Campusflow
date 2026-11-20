@@ -26,31 +26,6 @@
 ---
 
 
-App runs at **http://localhost:5173**
-
----
-
-## 🔧 Environment Variables
-
-Create `.env.local` (never commit this file):
-
-```env
-VITE_SUPABASE_URL=https://your-project-id.supabase.co
-VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
-```
-
-> Without these, the app runs in **demo mode** with built-in seed data. All features still work.
-
----
-
-## 🗄️ Database Setup (Supabase)
-
-1. Create a free project at [supabase.com](https://supabase.com)
-2. Open **SQL Editor** and run [`supabase_schema.sql`](./supabase_schema.sql)
-3. Copy your **Project URL** and **anon key** from Settings → API into `.env.local`
-
----
-
 ## 📦 Tech Stack
 
 - **React 19** + **Vite 8**
